@@ -1,0 +1,12 @@
+{
+	"rewrites": [
+		{
+			"source": "/Projects/:match*",
+			"destination": "https://willdiaz.me/:match*"
+		},
+		{
+			"source": "/:match*",
+			"destination": "https://willdiaz.me/:match*"
+		}
+	]
+}
