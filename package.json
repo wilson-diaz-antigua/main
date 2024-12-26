@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "create-turbo": "^2.3.3",
+    "turbo": "^2.3.3"
+  }
+}
